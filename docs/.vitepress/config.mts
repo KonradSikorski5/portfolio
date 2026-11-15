@@ -5,19 +5,32 @@ export default defineConfig({
   description: 'Portfolio plan and process record for Konrad Sikorski (IS117-005, NJIT).',
   base: '/portfolio/',
   cleanUrls: true,
+  srcExclude: ['parts/**'],
   lastUpdated: true,
   themeConfig: {
     nav: [
+      { text: 'Version A', link: '/a' },
+      { text: 'Version B', link: '/b' },
+      { text: 'Résumé', link: '/resume' },
       { text: 'Plan', link: '/plan' },
       { text: 'Reviews', link: '/reviews' }
     ],
     sidebar: [
+      {
+        text: 'Portfolio',
+        items: [
+          { text: 'Version A (projects first)', link: '/a' },
+          { text: 'Version B (problem-solving first)', link: '/b' },
+          { text: 'Résumé', link: '/resume' }
+        ]
+      },
       {
         text: 'Portfolio record',
         items: [
           { text: 'Overview', link: '/' },
           { text: 'Plan', link: '/plan' },
           { text: 'Résumé & profile drafts', link: '/materials' },
+          { text: 'Build record', link: '/build' },
           { text: 'Reviews & changes', link: '/reviews' }
         ]
       }
