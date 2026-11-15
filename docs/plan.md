@@ -50,8 +50,8 @@ I'll build both at the Build step and have a classmate try the same task on each
 | Item | Where it is now | Plan |
 |---|---|---|
 | GitHub profile | [github.com/KonradSikorski5](https://github.com/KonradSikorski5) (exists) | Add a short profile README and pin my 3 project repos |
-| LinkedIn | **Not linked yet**. [Draft headline and About](/materials#linkedin-draft) | Create or update my LinkedIn and add the link here at Build |
-| Résumé | **[Draft](/materials#resume-draft)** (still needs my degree and graduation date) | One-page PDF in this repo: NJIT, relevant courses, and the 3 projects, with only true claims |
+| LinkedIn | [linkedin.com/in/konrad-sikorski-3406323b0/](https://www.linkedin.com/in/konrad-sikorski-3406323b0/) (exists). [Draft headline and About](/materials#linkedin-draft) | Update my headline and About to match the draft, and add my two projects |
+| Résumé | **[Draft](/materials#resume-draft)** | One-page PDF in this repo: NJIT, relevant courses, and the 3 projects, with only true claims |
 | T-shirt repo | [is117-brand-studio-ks2334](https://github.com/KonradSikorski5/is117-brand-studio-ks2334) | Link it from the T-shirt case study |
 | Group repo | [is117-group-business](https://github.com/KonradSikorski5/is117-group-business) | Both Safwaan and I link the same shared repo |
 | Portfolio repo | [portfolio](https://github.com/KonradSikorski5/portfolio) | This repo; the site gets built here |

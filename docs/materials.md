@@ -1,18 +1,18 @@
 # Professional materials (drafts)
 
-These are **drafts** for the Plan step. Anything in **[brackets]** is something I still need to fill in with my real information. I won't guess it.
+These are **drafts** for the Plan step.
 
 ## Résumé draft
 
 > **KONRAD SIKORSKI**
-> [Professional email] · Portfolio: https://konradsikorski5.github.io/portfolio/ · GitHub: https://github.com/KonradSikorski5 · LinkedIn: [link]
+> konradsikorski2005@gmail.com · Portfolio: https://konradsikorski5.github.io/portfolio/ · GitHub: https://github.com/KonradSikorski5 · LinkedIn: https://www.linkedin.com/in/konrad-sikorski-3406323b0/
 >
 > **DIRECTION**
 > NJIT student interested in IT support and customer-facing technical roles, like solutions engineering.
 >
 > **EDUCATION**
 > New Jersey Institute of Technology, Newark, NJ
-> [Degree and major] · Expected [month year]
+> B.S. in Information Technology · Expected May 2028
 > Courses: IS117 (Website Development), IT340, IT202
 >
 > **SKILLS I CAN SHOW**
@@ -38,16 +38,16 @@ These are **drafts** for the Plan step. Anything in **[brackets]** is something 
 >
 > **NOTE:** These are course projects, not jobs. No work experience or results are claimed.
 
-**Still to do:** fill in the [brackets], decide whether to add the IT340 BookBin project (only if I can explain what I built), then export to a one-page PDF and check that the links work.
+**Still to do:** export to a one-page PDF and check that the links work.
 
 ## LinkedIn draft
 
 - **Headline:** NJIT Student | IT & Website Projects | Interested in IT Support and Solutions Engineering Internships
 - **About:** I like figuring out why something broke and explaining the fix in plain steps. In IS117 I made a simulated T-shirt store called Full Shift, and I'm working with a teammate on Exit Fresh, a car-care kit business. You can see my projects and how I checked them at konradsikorski5.github.io/portfolio.
-- **Education:** NJIT, [degree and major], expected [month year]
+- **Education:** NJIT, B.S. in Information Technology, expected May 2028
 - **Projects:** Full Shift and Exit Fresh, each with its link, labeled as course projects
 
-**Status:** LinkedIn profile **not linked yet**. I'll add the real link here at Build.
+**My LinkedIn:** https://www.linkedin.com/in/konrad-sikorski-3406323b0/ (I'll update the headline and About to match this draft.)
 
 ## GitHub profile plan
 
