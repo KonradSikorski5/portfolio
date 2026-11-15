@@ -17,6 +17,7 @@ export default defineConfig({
         items: [
           { text: 'Overview', link: '/' },
           { text: 'Plan', link: '/plan' },
+          { text: 'Résumé & profile drafts', link: '/materials' },
           { text: 'Reviews & changes', link: '/reviews' }
         ]
       }
