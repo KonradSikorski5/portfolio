@@ -35,6 +35,10 @@ export default defineConfig({
         ]
       }
     ],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/KonradSikorski5' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/konrad-sikorski-3406323b0/' }
+    ],
     outline: { level: [2, 3], label: 'On this page' },
     footer: {
       message: 'Course work for IS117-005 at NJIT. Planned items are labeled as planned.'

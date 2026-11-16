@@ -9,11 +9,13 @@ Plan date: Nov 15, 2026. This is a plan. Nothing on this page is built yet unles
 - **Reader:** a recruiter or hiring manager looking for an **internship** in IT support, solutions engineering, or a similar customer-facing technical role.
 - **Goal:** in under a minute, they find two of my projects, see what **I** did, and get to my résumé and profiles.
 - **Evidence I can honestly show:**
-  - My T-shirt store project (Full Shift) and its [help ticket](https://github.com/KonradSikorski5/is117-brand-studio-ks2334/blob/main/docs/help-ticket-size-focus.md), which shows a problem, steps, a fix, and a check.
-  - Our group project (Exit Fresh) with Safwaan, showing my part separately from his.
-  - My career research site.
+  - My T-shirt store project (Full Shift): [repo](https://github.com/KonradSikorski5/is117-brand-studio-ks2334) · [live site](https://konradsikorski5.github.io/is117-brand-studio-ks2334/). Also its [help ticket](https://github.com/KonradSikorski5/is117-brand-studio-ks2334/blob/main/docs/help-ticket-size-focus.md), which shows a problem, steps, a fix, and a check.
+  - Our group project (Exit Fresh) with Safwaan, showing my part separately from his: [repo](https://github.com/KonradSikorski5/is117-group-business) · [site](https://konradsikorski5.github.io/is117-group-business/). **Agreed split (Nov 15, [group issue #2](https://github.com/KonradSikorski5/is117-group-business/issues/2)):** I own Version A, the "What's inside" list, and the price summary. Safwaan owns Version B, the scent picker and refill, and checkout with order history.
+  - My career research site: [site](https://konradsikorski5.github.io/fde-career-research/) · [repo](https://github.com/KonradSikorski5/fde-career-research).
 
 These are **course projects**, not jobs. The portfolio will say so.
+
+**Changed after review (#1):** project links now sit next to each project, the group split is spelled out, and GitHub, LinkedIn, and Résumé are in the top bar on every page.
 
 ## Brand brief
 

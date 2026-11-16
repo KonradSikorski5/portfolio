@@ -15,7 +15,8 @@
 [Research site](https://konradsikorski5.github.io/is117-group-business/) · [Shared code (GitHub)](https://github.com/KonradSikorski5/is117-group-business) · team of two · **in progress**
 
 - **What it is:** a small kit for the inside of your car (wipes, cloth, brush, and a scent you pick) for students who commute.
-- **My part:** picked the idea, checked 3 competitor sites (Chemical Guys, Armor All, Little Trees), wrote the research, set up our site, and wrote the plan with a proposed split of the work.
-- **Safwaan's part:** joined the shared repo. His review and his part of the build are planned.
+- **My part so far:** picked the idea, checked 3 competitor sites (Chemical Guys, Armor All, Little Trees), wrote the research, set up our site, and wrote the plan.
+- **Safwaan's part so far:** reviewed the research, added a Chemical Guys scent observation, questioned our scent assumption, and reviewed the plan.
+- **Agreed build split ([issue #2](https://github.com/KonradSikorski5/is117-group-business/issues/2)):** I build Version A, the "What's inside" list, and the price summary. Safwaan builds Version B, the scent picker and refill, and checkout with order history. We review each other's parts.
 - **AI help:** Claude helped find and check sources and set up the site. I checked every fact on the real pages.
 - **Still to do:** agree on the work split, then build the store (due Dec 3).
