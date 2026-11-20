@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Konrad Sikorski — Portfolio',
-  description: 'Portfolio plan and process record for Konrad Sikorski (IS117-005, NJIT).',
+  title: 'Konrad Sikorski — IT Student Portfolio',
+  description: 'NJIT Information Technology student. See my web projects, what I built, how I checked it, and my résumé.',
   base: '/portfolio/',
   cleanUrls: true,
   srcExclude: ['parts/**'],

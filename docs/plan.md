@@ -1,6 +1,6 @@
 # Portfolio plan
 
-Plan date: Nov 15, 2026. This is a plan. Nothing on this page is built yet unless it says so.
+Plan date: Nov 15, 2026. **Updated Nov 20, 2026** to follow the [IS117 Project Plan Guide](https://keithwilliams.org/is117-demo-days/process/project-plan/) (due Nov 23). It adds build order, a React idea, a framework choice, hosting, mobile, accessibility, and privacy, and search and sharing.
 
 ## Reader, goal, and evidence
 
@@ -63,6 +63,58 @@ I'll build both at the Build step and have a classmate try the same task on each
 - **Data:** static pages and links only. No forms, no database, no visitor data.
 - **States:** home page loaded; project opened; résumé or profile opened.
 - **Limits:** the group project is still in progress, so its case study will show only what's done and label the rest as planned. Course projects aren't work experience, and I won't present them that way.
+
+## Build first, save for later
+
+- **Build first:** S1 (two project sections with live and code links) and S3 (résumé, GitHub, and LinkedIn links). A recruiter's first job is finding real work and my résumé.
+- **Save for later:** a short video walkthrough of each project.
+
+## React idea from the documentary
+
+The documentary ([React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)) is about how a small team at Facebook built React around one idea: **build the page from small, reusable pieces (components), and let the page update itself when a value (state) changes.**
+
+**On my portfolio:**
+
+- **Component:** a project section is one reusable piece: title, links, who it's for, what I did, and what's next. Full Shift and Exit Fresh use the same piece with different information. Version A and Version B are even built from the same shared parts in a different order.
+- **State:** the light/dark switch in the top bar. It's one value (light or dark) that changes when a visitor clicks it, and the whole page redraws in the new colors. The site also remembers the choice in the browser.
+
+## Framework and libraries
+
+I asked AI (Claude) to compare two frameworks for my main task: a recruiter opens my portfolio on GitHub Pages and finds my projects and résumé.
+
+|  | Next.js | VitePress |
+| --- | --- | --- |
+| Static build for GitHub Pages | `output: 'export'` | Builds to `.vitepress/dist` by default |
+| Writing pages | React components | Mostly Markdown, with Vue components when needed |
+| Fit for my site | More power than a content site needs | Made for content pages like mine |
+
+- **My choice: VitePress.** My portfolio is mostly text, links, and project write-ups, so writing pages in Markdown is fast and easy to keep up to date. It builds a static site that GitHub Pages can serve without running a server.
+- **One tradeoff:** VitePress is made for content, not apps. If I wanted something app-like, such as a live project demo inside the portfolio, Next.js would handle it better. For now I link to my live projects instead.
+- **AI claim I checked:** AI said that for a site at `username.github.io/repo/`, VitePress needs `base` set to `/repo/`. **Checked Nov 20 in the official [VitePress deploy docs](https://vitepress.dev/guide/deploy):** "if you're using Github … Pages and deploying to user.github.io/repo/, then set your base to /repo/." ✅ True. My config uses `base: '/portfolio/'`, and the live site works.
+- **Libraries:** none. VitePress already includes navigation, search, and the light/dark switch.
+
+## Hosting and storage
+
+- **Hosting:** GitHub Pages at https://konradsikorski5.github.io/portfolio/. VitePress produces a static build (plain HTML, CSS, and JS files) that GitHub Pages serves without running my app on a server. It's published, and I check the links from the public URL.
+- **What it stores:** nothing about visitors. The only thing saved is the light/dark choice, in the visitor's own browser (`vitepress-theme-appearance`). No forms, no accounts.
+
+## Mobile, accessibility, and privacy
+
+- **Task I'll test:** on a phone and with only the keyboard, find the T-shirt project, say what I did in the group project, and open my résumé.
+- **Passing looks like:** text is readable without zooming, links are easy to tap, nothing runs off the screen, every focused link has a visible outline, and the menu opens on a phone.
+- **One mistake and recovery:** a visitor opens an old or mistyped link. The site shows a "Page not found" page with a link back home instead of a blank error.
+- **Images and fonts:** no photos. The only font is Inter, which comes with VitePress and is under the SIL Open Font License, so it's free to use.
+- **Privacy:** I chose to publish only my name, school, a professional email, GitHub, and LinkedIn. There's no visitor tracking. Before collecting anything from visitors, like a contact form, I'd research what data I really need and how long to keep it (data minimization).
+
+## Search, sharing, and one measure
+
+- **Page title:** "Konrad Sikorski — IT Student Portfolio"
+- **Description:** "NJIT Information Technology student. See my web projects, what I built, how I checked it, and my résumé."
+- **Channel:** LinkedIn, where recruiters look.
+- **Sample post:** "I just put my IS117 projects into one portfolio: a T-shirt store with a working checkout and a team car-care kit project. Each one shows what I built and how I tested it. Feedback welcome!"
+- **Link preview sketch:** title "Konrad Sikorski — IT Student Portfolio" · description "Projects, what I built, and my résumé" · image: a screenshot of the Full Shift store.
+- **After they click:** open a project, then my résumé.
+- **One measure:** a classmate starts on the home page and tries to find the T-shirt project, my group part, and my résumé without help. I note how long it takes and where they get stuck. No analytics installed.
 
 ## AI help
 
