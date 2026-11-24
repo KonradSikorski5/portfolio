@@ -1,6 +1,6 @@
 ## Hi, I'm Konrad
 
-I'm an NJIT student studying **Information Technology** (B.S., expected May 2028). I like figuring out why something broke and explaining the fix in plain steps. I'm looking for an **internship in IT support or solutions engineering**.
+I'm an NJIT student studying **Information Technology** (B.S., expected May 2028). I like figuring out why something broke and explaining the fix in plain steps. I'm aiming for a **solutions engineering intern** role: helping customers, finding why things break, and building and explaining the fix.
 
 These are **course projects** from IS117 (Fall 2026), not paid work. Each one shows what I personally did, how AI helped, and what I checked.
 

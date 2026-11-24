@@ -3,7 +3,7 @@
 [konradsikorski2005@gmail.com](mailto:konradsikorski2005@gmail.com) · [Portfolio](https://konradsikorski5.github.io/portfolio/) · [GitHub](https://github.com/KonradSikorski5) · [LinkedIn](https://www.linkedin.com/in/konrad-sikorski-3406323b0/)
 
 ## Direction
-NJIT student interested in IT support and customer-facing technical roles, like solutions engineering.
+NJIT Information Technology student aiming for a solutions engineering intern role.
 
 ## Education
 - New Jersey Institute of Technology, Newark, NJ
